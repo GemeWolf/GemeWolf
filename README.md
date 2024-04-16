@@ -1,5 +1,5 @@
 # 💫 About Me:
-💢 I'm 21 year, software engineer based in Mexico<br>💢 I'm passionate about software development,<br>problem solving through programming. <br> 💢I'm always excited to learn new technologies & improve my skills <br>Nice to meet you! 🪐
+💢 I'm 22 year, software engineer based in Mexico<br>💢 I'm passionate about software development,<br>problem solving through programming. <br> 💢I'm always excited to learn new technologies & improve my skills <br>Nice to meet you! 🪐
 
 
 ## 🌐 Socials:
