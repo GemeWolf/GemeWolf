@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I'm Daniel, 💎<br>although everyone knows me as Geme.<br>💢 I'm 21 year, software engineer based in Mexico<br>💢 Currently studying at ULA.<br>💢 I'm passionate about software development,<br>problem solving through programming. <br> 💢I'm always excited to learn new technologies & improve my skills <br>Nice to meet you! 🪐
+💢 I'm 21 year, software engineer based in Mexico<br>💢 Currently studying at ULA.<br>💢 I'm passionate about software development,<br>problem solving through programming. <br> 💢I'm always excited to learn new technologies & improve my skills <br>Nice to meet you! 🪐
 
 
 ## 🌐 Socials:
