@@ -1,3 +1,6 @@
+# 🌍 Language / Idioma
+[![English](https://img.shields.io/badge/English-blue?style=for-the-badge)](./README.md) [![Español](https://img.shields.io/badge/Español-red?style=for-the-badge)](./README_es.md)
+
 # 💫 About Me:
 💢 Software engineer based in Mexico<br>💢 I'm passionate about software development,<br>problem solving through programming. <br> 💢I'm always excited to learn new technologies & improve my skills <br>Nice to meet you! 🪐
 
