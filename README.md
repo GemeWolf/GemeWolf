@@ -10,9 +10,5 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=GemeWolf&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GemeWolf&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-  ## 💰 You can help me by Donating
-  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/danielgagle02lopez) 
-
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
