@@ -9,8 +9,12 @@ Outside of work, I'm a massive tech tinkerer. My biggest hobby is building and m
 #### Let's connect!
 [<img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white" />](https://medium.com/@dannytalamantes03)
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://linkedin.com/in/daniel-lópez-dev)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GemeWolf&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align=center>
+  
+| Streak Stats |
+| ----------- | 
+| ![](https://github-readme-streak-stats.herokuapp.com/?user=GemeWolf&theme=omni&hide_border=false) |
+
+</div>
